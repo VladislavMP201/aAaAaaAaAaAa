@@ -72,6 +72,15 @@ if (a != 0 && b == 0 && c != 0)
 		document.write(" x2 = -",x );
 
 }
+if (a==0 && b==0 && c!=0){
+	document.write("Нет корней");
+}
+
+
+if (a==0 && b==0 && c==0){
+document.write(", Х любое число");
+
+}
 
 
 
